@@ -1,9 +1,3 @@
-<%-- 
-    Document   : sayhello
-    Created on : 08/02/2021, 23:08:15
-    Author     : viter
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>

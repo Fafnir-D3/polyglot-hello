@@ -1,25 +1,8 @@
 package hello;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-
-import jdk.vm.ci.meta.Local;
-
-import java.beans.*;
 import java.io.Serializable;
-import java.sql.Timestamp;
 import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
-import java.util.Date;
 
-/**
- *
- * @author viter
- */
 public class MessageBean implements Serializable {
      
     private String msg;
